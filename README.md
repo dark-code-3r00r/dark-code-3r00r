@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @dark-code-3r00r
+- 🔭 I’m currently working on Facebook
+- 🌱 I’m currently learning Sololearn
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Ask me about Python
+- 📫 How to reach me: Try and try
+
+
